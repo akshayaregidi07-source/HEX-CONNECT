@@ -225,4 +225,3 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-✅ If you want, I can also give you **4 perfect screenshots to capture from your program** so your GitHub page looks **very impressive (almost like a professional open-source project)**.
